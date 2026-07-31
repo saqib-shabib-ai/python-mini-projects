@@ -11,6 +11,7 @@ This repository contains beginner-friendly Python projects created during my **1
 - Countdown Timer
 - Basic Math Quiz
 - Shopping List App
+- Contact Book
 
 ## 🛠️ Technologies
 - Python
