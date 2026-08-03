@@ -12,6 +12,7 @@ This repository contains beginner-friendly Python projects created during my **1
 - Basic Math Quiz
 - Shopping List App
 - Contact Book
+- Ingredient Checker
 
 ## 🛠️ Technologies
 - Python
