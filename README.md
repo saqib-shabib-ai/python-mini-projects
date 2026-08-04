@@ -13,7 +13,7 @@ This repository contains beginner-friendly Python projects created during my **1
 - Shopping List App
 - Contact Book
 - Ingredient Checker
-
+- Note-Taking App
 ## 🛠️ Technologies
 - Python
 - VS Code
