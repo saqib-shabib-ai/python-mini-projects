@@ -15,6 +15,7 @@ This repository contains beginner-friendly Python projects created during my **1
 - Ingredient Checker
 - Note-Taking App
 - Safe Calculator
+- Temperature Converter
 ## 🛠️ Technologies
 - Python
 - VS Code
