@@ -16,6 +16,7 @@ This repository contains beginner-friendly Python projects created during my **1
 - Note-Taking App
 - Safe Calculator
 - Temperature Converter
+- Student Grade Manager
 ## 🛠️ Technologies
 - Python
 - VS Code
