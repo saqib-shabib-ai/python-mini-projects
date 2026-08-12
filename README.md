@@ -17,6 +17,7 @@ This repository contains beginner-friendly Python projects created during my **1
 - Safe Calculator
 - Temperature Converter
 - Student Grade Manager
+- Random Password Generator
 ## 🛠️ Technologies
 - Python
 - VS Code
