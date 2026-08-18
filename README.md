@@ -18,6 +18,7 @@ This repository contains beginner-friendly Python projects created during my **1
 - Temperature Converter
 - Student Grade Manager
 - Random Password Generator
+- Recipe Viewer App
 ## 🛠️ Technologies
 - Python
 - VS Code
