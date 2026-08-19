@@ -19,6 +19,7 @@ This repository contains beginner-friendly Python projects created during my **1
 - Student Grade Manager
 - Random Password Generator
 - Recipe Viewer App
+- Daily Journal Logger
 ## 🛠️ Technologies
 - Python
 - VS Code
